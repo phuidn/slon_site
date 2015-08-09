@@ -3,10 +3,10 @@ layout: default
 ---
 {% include gallery_header.html %}
 
-<link
+<link href="/css/custom.css" rel="stylesheet"/>
 <p> A collection of Slon related art to peruse at your leisure: </p>
 
-{% for image in site.image_list %}
+{% for image in site.data.image_list %}
   {{ image.text }}<br>
   <a href="/images/{{ image.name }}" data-lightbox="art" title="{{ image.text}}">
   <div class="container">
