@@ -39,7 +39,7 @@ permalink: /Gigs/
   <tr>
     <td>25/10/15</td>
     <td>Natural Philosopher</td> 
-    <td>7:45pm</td>
+    <td></td>
   </tr>
 </table> 
 
