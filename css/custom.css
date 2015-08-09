@@ -2,6 +2,11 @@
   position: relative;
 }
 #clip {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+#crop {
   position: absolute;
   clip: rect(0, 100px, 100px, 0);
 }
