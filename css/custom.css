@@ -1,0 +1,7 @@
+.container {
+  position: relative;
+}
+#clip {
+  position: absolute;
+  clip: rect(0, 100px, 100px, 0);
+}
