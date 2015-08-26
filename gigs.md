@@ -17,11 +17,6 @@ permalink: /Gigs/
   <col width="80">
   <col width="80">
   <tr>
-    <td>12/8/15</td>
-    <td>Blueberry Bar</td> 
-    <td>9:40pm</td>
-  </tr>
-  <tr>
     <td>12/9/15</td>
     <td>Cafe 80's</td> 
     <td>t.b.c.</td>
@@ -52,6 +47,11 @@ permalink: /Gigs/
   <col width="80">
   <col width="80">
   <col width="80">
+  <tr>
+    <td>12/8/15</td>
+    <td>Blueberry Bar</td> 
+    <td></td>
+  </tr>
   <tr>
     <td>2/6/15</td>
     <td>Cafe 1001</td> 
