@@ -1,0 +1,18 @@
+# Allows you to view changes made to the website to make sure that it works
+# before committing to Github, which will publish the website with the 
+# changes.
+jekyll build
+jekyll serve
+
+# Commits to the Github repository. Put some text where "Added swans." is to say 
+# something about the version.
+git commit -a -m "Added swans."
+git push
+
+If you have small page fragments that you wish to include in multiple places on 
+your site, you can use the include tag.
+{% include footer.html %}
+
+Jekyll expects all include files to be placed in an _includes directory at the 
+root of your source directory. This will embed the contents of 
+<source>/_includes/footer.html into the calling file.
