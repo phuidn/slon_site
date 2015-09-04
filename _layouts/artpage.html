@@ -6,11 +6,37 @@ layout: default
 <link href="/css/custom.css" rel="stylesheet"/>
 <p> A collection of Slon related art to peruse at your leisure: </p>
 
+<table style="width:100%">
+
+{% assign img_cols = 4 %}
+{% assign cols_minus_one = (img_cols - 1) %}
+
+{% for n in (1..img_cols) %}
+  <col width="80">
+{% endfor %}
+
 {% for image in site.data.image_list %}
-  {{ image.text }}<br>
+  {% assign index = forloop.index0 | modulo: img_cols %}
+  {% if index == 0 %}
+    <tr>
+  {% endif %}
+  
+  <td>  
   <a href="/images/{{ image.name }}" data-lightbox="art" title="{{ image.text}}">
   <div class="container">
     <img id="clip" src="/images/{{ image.name }}" />
   </div>
   </a>
+  </td>
+
+  {% if index == (cols_minus_one) %}
+    </tr>
+  {% endif %}
+
 {% endfor %}
+
+</table> 
+
+<!--{% for image in site.data.image_list %}
+  {{ image.text }}<br>
+{% endfor %}-->
