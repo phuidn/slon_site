@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Lyrics
-subcategories: site.data.lyrics_list
 permalink: /lyrics/
 ---
 
