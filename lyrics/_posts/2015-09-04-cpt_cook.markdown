@@ -1,19 +1,16 @@
 ---
 layout: post
 title:  "Last Voyage of of Cook"
-date:   2015-09-04 
+date:   2015-09-04 17:04:14
 categories: jekyll update
 ---
+**Intro**
 
-Last Voyage of Cook
-
-Intro
-
-Verse 1
+**Verse 1**
 
 The Greenwich light is dappled, it reminds me
 Of sun-swung seas,
-Swinging softly in my muscle memories…
+Swinging softly in my muscle memories...
 I swagger with my sailor’s gait 
 From dinner to soiree,
 “Our Cook’s the man who mapped the world”,
@@ -23,23 +20,23 @@ The Earl of Sandwich dines me, he says
 We have ships bound for the North-West Passage,
 Ask, and they’ll be thine.”
 
-Bridge
+**Bridge**
 
-I can’t stand it, so I stand and fix the party with my eyes…
+I can’t stand it, so I stand and fix the party with my eyes...
 “My Lords:
 If so commanded I will undertake to lead this enterprise.”
 
-Chorus 1
+**Chorus 1**
 
-Bring me my guns, bring me my sextant…
-Bring me the iceberg frosted waves…
-Bring me my wilderness of water…
+Bring me my guns, bring me my sextant...
+Bring me the iceberg frosted waves...
+Bring me my wilderness of water...
 It’s a wilderness of graves.
 
-Tis I…
-Tis I…
+Tis I...
+Tis I...
 
-Verse 2
+**Verse 2**
 
 Elizabeth my love, I leave you staring from the docks,
 The Resolution makes for Tonga, where I thread her through the rocks.
@@ -47,36 +44,36 @@ Aye, there this Yorkshire farm boy is the supreme autocrat,
 Harass me at me South Sea throne; I’ll lash ye with me cat.
 They steal from me, the natives stir, the Old One from his sleep.
 
-Bridge
+**Bridge**
 
-I’ll slice the biceps on their arms…
-Til’ their bone marrows weep…
+I’ll slice the biceps on their arms...
+Til’ their bone marrows weep...
 
-Chorus 2
+**Chorus 2**
 
 Stand away, up North I pelt, 
 A broth of Nootka Injun ice-melt 
-Broiling…broiling…
+Broiling...broiling...
 
 Break upon the Chukchi Sea, 
 Escape her frigid fingers coyly
-Coiling…coiling…
+Coiling...coiling...
 
 We-ell the ship was spoiling so I pushed her hard to Hawaii,
-There the natives sang my name out – Orono – and I was a deity…
+There the natives sang my name out – Orono – and I was a deity...
 
-Tis I…
-Tis I…
+Tis I...
+Tis I...
 
-Verse 3
+**Verse 3**
 
 I feasted with King Terreoboo by the whitewashed moon,
 He sent us off with accolades, but we returned too soon.
 When they stole a wooden cutter, I declared a state of war,
 I went to fetch their King for hostage
-On that sacred shore…
+On that sacred shore...
 
-Death Sequence
+**Death Sequence**
 
 Of a pearly morning, captain’s coming,
 And through the trees I feel the drumming,
@@ -93,28 +90,24 @@ The dizzy waves are churning red,
 The dagger drawn, a neck of knife,
 Diverts my air, it drinks my life!
 
-Bridge
+**Bridge**
 
 And I fall face down on the sun-swung seas, they
 
-Verse 3 Continued
+**Verse 3 Continued**
 
-Stultify, my pumping life, they pull it from my chest…
+Stultify, my pumping life, they pull it from my chest...
 
-Bridge
+**Bridge**
 
-I pass to where the gyrfalcons…
-And the Gods go to rest…
+I pass to where the gyrfalcons...
+And the Gods go to rest...
 
-Epilogue
+**Epilogue**
 
-We ate your heart, but no hard feelings, Lono…
-Lono, we set your mana free…
+We ate your heart, but no hard feelings, Lono...
+Lono, we set your mana free...
 When you coming, back to visit, Lono?
-Lono, fulfill the prophecy…
+Lono, fulfill the prophecy...
 
-Outro
-
-
-
-
+**Outro**

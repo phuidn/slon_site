@@ -1,12 +1,9 @@
 ---
 layout: post
 title:  "The Dragon-Fly Man"
-date:   2007-08-09
+date:   2007-08-09 17:07:46
 categories: jekyll update
 ---
-
-The Dragon-Fly Man
-
 The lakeside pond besheathed by weeds
 And footprints scraped the churn’d mud
 That laced the banks, and laced the dream

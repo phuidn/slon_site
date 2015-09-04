@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "Woman of the Sea"
-date:   20xx-yy-zz
+date:   2015-09-04 17:07:46
 categories: jekyll update
 ---
 
-Woman of the Sea
+**Verses 1-3**
 
-Verses 1-3
 I’m covering my sex up with neoprene,
 Gonna knock out all my teeth for some whale baleen,
 Yeah, my gums are bleeding heavy, but my head feels clean,
@@ -23,10 +22,12 @@ Yeah, the squalor tasted succulent as sugarcane,
 I sucked up all the filthiness, and with it came the pain,
 The pain inside the woman of the sea.
 
-Chorus
-Ahhhh…
+**Chorus**
 
-Verses 4-6
+Ahhhh...
+
+**Verses 4-6**
+
 I did battle with the kraken for my squid mouth soup,
 Yeah, he pulled me by the coat tails on a loop-de-loop,
 I shimmied, but that decapod was tough to dupe,
@@ -43,9 +44,6 @@ The final curve I paddle is parabolic,
 And I go to sleep a woman of the sea…
 Because the sea forever shares a bed with me.
 
-Chorus
-Ahhhh…
+**Chorus**
 
-
-
-
+Ahhhh...

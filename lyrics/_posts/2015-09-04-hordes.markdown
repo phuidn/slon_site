@@ -1,14 +1,12 @@
 ---
 layout: post
 title:  Hordes In the Cold Place
-date:   2015-xx-yy
+date:   2015-09-04 16:03:15
 categories: jekyll update
 ---
 
+**Verse**
 
-Hordes In the Cold Place
-
-Verse
 The hordes are in the cold place,
 They glibber in my ear,
 A black iron grille divides us still,
@@ -19,18 +17,20 @@ We keep them out with pine,
 My loved ones huddle round the fire,
 The hordes, they scratch and whine.
 
-Bridge
+**Bridge**
 
-Chorus 1
+**Chorus 1**
+
 Oh, they hear my heartbeat,
 They hear my vessels booming.
 
 Oh, they need the fresh meat,
 They know the feast is looming.
 
-Bridge
+**Bridge**
 
-Verse
+**Verse**
+
 Beneath the hut, a staircase 
 Leads to miles of corridor,
 And at the end are caged lion-things
@@ -46,9 +46,10 @@ Descend, my loves, descend,
 My loves are chased by grizzle-bears 
 Down every twist and bend.
 
-Bridge
+**Bridge**
 
-Chorus 2
+**Chorus 2**
+
 Oh, they hunt the quarry,
 The raptorhood impels them.
 
@@ -62,12 +63,13 @@ Oh, your people flounder,
 The tiger takes the hindmost.
 
 Oh, the hordes surround her,
-The one you love the most is…
-Gone…
+The one you love the most is...
+Gone...
 
-Bridge
+**Bridge**
 
-Verse
+**Verse**
+
 The hordes came from the cold place,
 Their forked tongues flick the air,
 In waves they pour with clicking claws
