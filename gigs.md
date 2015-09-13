@@ -19,7 +19,7 @@ permalink: /Gigs/
   <tr>
     <td>17/9/15</td>
     <td>The Morden Arms, Greenwich</td> 
-    <td>9:45 or 10:30</td>
+    <td>9:45 or 10:30pm</td>
   </tr>
   <tr>
     <td>9/10/15</td>
