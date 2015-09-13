@@ -17,14 +17,9 @@ permalink: /Gigs/
   <col width="80">
   <col width="80">
   <tr>
-    <td>12/9/15</td>
-    <td>Cafe 80's</td> 
-    <td>t.b.c.</td>
-  </tr>
-  <tr>
     <td>17/9/15</td>
-    <td>Greenwich</td> 
-    <td>t.b.c.</td>
+    <td>The Morden Arms, Greenwich</td> 
+    <td>9:45 or 10:30</td>
   </tr>
   <tr>
     <td>9/10/15</td>
