@@ -17,11 +17,6 @@ permalink: /Gigs/
   <col width="80">
   <col width="80">
   <tr>
-    <td>17/9/15</td>
-    <td>The Morden Arms, Greenwich</td> 
-    <td>9:45 or 10:30pm</td>
-  </tr>
-  <tr>
     <td>9/10/15</td>
     <td>Spice of Life</td> 
     <td>7:45pm</td>
@@ -43,6 +38,11 @@ permalink: /Gigs/
   <col width="80">
   <col width="80">
   <tr>
+    <td>17/9/15</td>
+    <td>The Morden Arms, Greenwich</td> 
+    <td>9:45 or 10:30pm</td>
+  </tr>
+<tr>
     <td>12/8/15</td>
     <td>Blueberry Bar</td> 
     <td></td>
