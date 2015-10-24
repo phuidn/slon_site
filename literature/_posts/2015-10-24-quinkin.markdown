@@ -5,6 +5,12 @@ date:   2015-09-04 17:07:46
 categories: literature
 ---
 
+<style>
+.date {
+  display: none;
+}
+</style>
+
 I am the quinkin.
 
 I am the spirit quinkin and my fingers are long white trees, and moisture drips from the leaves of these long white trees. I am the spirit quinkin and I stride gargantuan over the red barren waste, and the languorous wind is my medium. I suggest queer notions with it. I am the understated whisperer of ideas high into the blue and shining wilderness sky, and I drip feed moisture through my swaying dangled fingertips to the hopeless mortals at my feet. They act out their harsh dramas daily, just to keep sucking at the innermost coat of dry air, but I do not understand such things. I am the quinkin.
