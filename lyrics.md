@@ -6,7 +6,7 @@ permalink: /lyrics/
 
   <ul class="post-list">
     {% for song in site.posts %}
-    {% if post.categories contains 'blog1' %}
+      {% if song.categories contains 'lyrics' %}
       <li>
         <span class="post-meta"></span>
 
@@ -14,6 +14,6 @@ permalink: /lyrics/
           <a class="post-link" href="{{ song.url | prepend: site.baseurl }}">{{ song.title }}</a>
         </h2>
       </li>
-    {% endif %}
+      {% endif %}
     {% endfor %}
   </ul>
