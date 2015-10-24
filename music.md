@@ -4,6 +4,7 @@ title: Music
 permalink: /Music/
 ---
 
+
 Last Voyage of Cook
 
 A new folk song about the final voyage of Captain James Cook, culminating with his brutal death in Kealakekua Bay in 1779.  
