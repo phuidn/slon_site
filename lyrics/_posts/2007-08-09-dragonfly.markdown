@@ -2,7 +2,7 @@
 layout: post
 title:  "The Dragon-Fly Man"
 date:   2007-08-09 17:07:46
-categories: jekyll update
+categories: lyrics
 ---
 The lakeside pond besheathed by weeds<br>
 And footprints scraped the churn’d mud<br>

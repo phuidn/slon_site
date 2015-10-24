@@ -2,7 +2,7 @@
 layout: post
 title:  Hordes in the Cold Place
 date:   2015-09-04 16:03:15
-categories: jekyll update
+categories: lyrics
 ---
 
 **Verse**
