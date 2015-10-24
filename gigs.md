@@ -30,12 +30,12 @@ permalink: /Gigs/
   <tr>
     <td>9/10/15</td>
     <td>Spice of Life</td> 
-    <td>7:45pm</td>
+    <td></td>
   </tr>
   <tr>
     <td>17/9/15</td>
     <td>The Morden Arms, Greenwich</td> 
-    <td>9:45pm</td>
+    <td></td>
   </tr>
   <tr>
     <td>12/8/15</td>
