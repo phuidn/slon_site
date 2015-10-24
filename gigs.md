@@ -29,7 +29,7 @@ permalink: /Gigs/
   <col width="80">
   <tr>
     <td>9/10/15</td>
-    <td>Spice of Life, Soho</td> 
+    <td>The Spice of Life, Soho</td> 
     <td></td>
   </tr>
   <tr>
