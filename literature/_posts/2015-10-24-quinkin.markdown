@@ -2,7 +2,7 @@
 layout: post
 title:  "I am the Quinkin"
 date:   2015-09-04 17:07:46
-categories: jekyll update
+categories: literature
 ---
 
 I am the quinkin.
