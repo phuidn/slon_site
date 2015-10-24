@@ -9,6 +9,7 @@ jekyll serve
 # entire working tree.
 git add -A .
 git commit -a -m "Added swans."
+git pull
 git push
 
 If you have small page fragments that you wish to include in multiple places on 
