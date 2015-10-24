@@ -4,8 +4,10 @@
 jekyll build
 jekyll serve
 
-# Commits to the Github repository. Put some text where "Added swans." is to say 
-# something about the version.
+# Commits to the Github repository. Put some text where "Added swans." is to 
+# say something about the version. The -A just means add all files in the 
+# entire working tree.
+git add -A .
 git commit -a -m "Added swans."
 git push
 
