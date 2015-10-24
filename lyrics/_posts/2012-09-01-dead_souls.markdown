@@ -2,7 +2,7 @@
 layout: post
 title:  "Dead Souls"
 date:   2012-09-01 13:03:15
-categories: jekyll update
+categories: lyrics
 ---
 
 **Verse 1**<br>
