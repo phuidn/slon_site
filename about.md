@@ -8,5 +8,5 @@ SLON is an artistic project involving three researchers with dubious employment 
 
 This project involves music, visual art, and the construction of an elaborate polytheistic belief system that will be revealed in multiple stages. SLON is therefore a selfless and righteous endeavour that we are pursuing for the good of mankind, as well as for our own amusement. 
 
-If you have any specific complaints about our music, email us at <a href="mailto:{{ site.email }}">{{ site.email }}. Then, in accordance with our code of honour, you can arrange a meeting on a multistorey carpark of your choice where we will fight you. The loser will be thrown off the car park. Be aware that Adam knows Kung Fu.
+If you have any specific complaints about our music, email us at <a href="mailto:{{ site.email }}">{{ site.email }}</a>. Then, in accordance with our code of honour, you can arrange a meeting on a multistorey carpark of your choice where we will fight you. The loser will be thrown off the car park. Be aware that Adam knows Kung Fu.
 
