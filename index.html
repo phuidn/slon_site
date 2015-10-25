@@ -2,14 +2,44 @@
 layout: frontpage
 ---
 
-<div class="home">
 
-  <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+<!--<div class="home">--!>
+  <!-- this isn't working, something to do with the header not being loaded in the frontpage layout I think -->
+  <head> 
+		<meta charset="utf-8"> 
+		<style>
+      * {
+        padding: 0;
+        margin: 0;
+      }
+      .fit { /* set relative picture size */
+        max-height: 100%;
+        max-width: 100%;
+      }
+      .center {
+        display: block;
+        margin: auto;
+      }
+		</style>
+		<script src="js/jquery-2.1.4.min.js"></script> 
+		<script src="jsjquery-photo-resize.js"></script>
+		<script type="text/javascript" charset="utf-8">
+			$(document).ready(function() {
+				$("img").photoResize({
+					bottomSpacing: 0
+				});
+			});
+		</script>
+	</head> 
 
-  <H1 align="center">
+  <a href="/About/" title="Enticing, creepy trees">
+    <img class="center fit" src="/images/homepage-trees-split.png" alt="">
+  </a>
+
+  <!-- <H1 align="center">
   <a href="/About/" title="Enticing, creepy trees">
     <img id="clip" src="/images/homepage-trees-split.png" />
   </a>
-  </H1>
+</H1> --!>
 
-</div>
+<!-- </div> --!>
