@@ -6,7 +6,7 @@ permalink: /About/
 
 <style>
 *{} 
-.firstcharacter { float: left; color: #A02; font-size: 75px; line-height: 60px; padding-top: 4px; padding-right: 8px; padding-left: 3px; font-family: Georgia; }
+.firstcharacter { float: left; color: #A02; font-size: 75px; line-height: 60px; padding-top: 4px; padding-right: 8px; padding-left: 3px; font-family: Palatino; }
 
 </style>
 
