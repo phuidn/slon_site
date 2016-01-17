@@ -1,0 +1,16 @@
+<style>
+* {
+padding: 0;
+margin: 0;
+}
+/* set relative picture size */
+.fit { 
+max-height: 200%;
+max-width: 200%;
+}
+.center {
+display: block;
+margin: 0 auto;
+}
+</style>
+
