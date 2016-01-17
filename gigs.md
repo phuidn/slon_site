@@ -5,7 +5,6 @@ permalink: /Gigs/
 ---
 
 <!-- line break -->
-<br>
 
 #**Upcoming Gigs**
 
