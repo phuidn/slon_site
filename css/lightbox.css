@@ -1,11 +1,3 @@
-header ul {
-	display: inline-block;
-	float: right;
-	height: 30px;
-	z-index: 999;
-	position: relative;
-}
-
 /* Preload images */
 body:after {
   content: url(../images/close.png) url(../images/loading.gif) url(../images/prev.png) url(../images/next.png);
