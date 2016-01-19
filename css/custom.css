@@ -13,5 +13,5 @@
 
 #header_wrap {
 	  position: relative;
-	    z-index: 10;
+	    z-index: 10000;
 }
