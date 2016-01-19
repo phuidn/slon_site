@@ -10,8 +10,3 @@
   position: absolute;
   clip: rect(0, 100px, 100px, 0);
 }
-
-#header_wrap {
-	  position: absolute;
-	  z-index: 10000;
-}
