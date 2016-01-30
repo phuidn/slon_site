@@ -14,6 +14,14 @@ permalink: /Gigs/
 <table style="width:100%">
   <col width="80">
   <col width="160">
+  <tr>
+    <td>15/2/16</td>
+    <td>The Alice, Aldgate</td> 
+  </tr>
+  <tr>
+    <td>22/2/16</td>
+    <td>The Alice, Aldgate</td> 
+  </tr>
 </table> 
 
 <br>

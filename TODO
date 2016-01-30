@@ -1,6 +1,5 @@
 Make a colour scheme
 Look into ways of making images in Art load faster (thumbnails)
-Make sure the menu is always in front of the art for mobiles - working on this. Apparently the z-index parameter in the .css files can control this, but it's not worked so far.
 Web site art
 Find a way to automate the Gigs page
 Make a better logo
