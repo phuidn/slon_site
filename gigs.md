@@ -15,12 +15,12 @@ permalink: /Gigs/
   <col width="80">
   <col width="160">
   <tr>
-    <td>15/2/16</td>
-    <td>The Alice, Aldgate</td> 
+    <td>11/2/16</td>
+    <td>The Church, Muswell Hill, 9pm</td> 
   </tr>
   <tr>
-    <td>22/2/16</td>
-    <td>The Alice, Aldgate</td> 
+    <td>15/2/16</td>
+    <td>The Alice, Aldgate, 8pm</td> 
   </tr>
 </table> 
 
