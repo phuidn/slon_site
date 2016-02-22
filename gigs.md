@@ -18,6 +18,10 @@ permalink: /Gigs/
     <td>28/2/16</td>
     <td>Noteworthy, Paper Dress, Hackney, 7-11pm</td> 
   </tr>
+  <tr>
+    <td>3/3/16</td>
+    <td>The Glebe, Stoke-on-Trent, ~10pm</td> 
+  </tr>
 </table> 
 
 <br>
