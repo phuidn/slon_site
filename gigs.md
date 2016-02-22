@@ -15,12 +15,8 @@ permalink: /Gigs/
   <col width="80">
   <col width="160">
   <tr>
-    <td>11/2/16</td>
-    <td>The Church, Muswell Hill, 9pm</td> 
-  </tr>
-  <tr>
-    <td>15/2/16</td>
-    <td>The Alice, Aldgate, 8pm</td> 
+    <td>28/2/16</td>
+    <td>Noteworthy, Paper Dress, Hackney, 7-11pm</td> 
   </tr>
 </table> 
 
@@ -32,6 +28,14 @@ permalink: /Gigs/
 <table style="width:100%">
   <col width="80">
   <col width="160">
+  <tr>
+    <td>15/2/16</td>
+    <td>The Alice, Aldgate, 8pm</td> 
+  </tr>
+  <tr>
+    <td>11/2/16</td>
+    <td>The Church, Muswell Hill, 9pm</td> 
+  </tr>
   <tr>
     <td>9/10/15</td>
     <td>The Spice of Life, Soho</td> 
