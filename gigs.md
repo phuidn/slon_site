@@ -6,7 +6,7 @@ permalink: /Gigs/
 
 <!-- line break -->
 
-#**Upcoming Gigs**
+**Upcoming Gigs**
 
 <!-- These tables have no borders. -->
 <!-- The table is written one row at a time. -->
@@ -18,7 +18,7 @@ permalink: /Gigs/
 
 <br>
 
-#**Old Gigs**
+**Old Gigs**
 
 
 <table style="width:100%">
