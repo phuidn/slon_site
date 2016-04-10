@@ -14,6 +14,14 @@ permalink: /Gigs/
 <table style="width:100%">
   <col width="80">
   <col width="160">
+  <tr>
+    <td>10/4/16</td>
+    <td>Noteworthy, Paper Dress, Hackney, 6-11pm</td>
+  </tr>
+  <tr>
+    <td>11/4/16</td>
+    <td>The Spice of Life, Soho, 7-11pm</td>
+  </tr>
 </table>
 
 <br>
