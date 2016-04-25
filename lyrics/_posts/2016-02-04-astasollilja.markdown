@@ -6,6 +6,7 @@ categories: lyrics
 ---
 
 **Section 1**
+
 When the blizzard ceased to blow,
 He found his croft submerged in snow,
 And his mangy dog was yowling in the dark.
