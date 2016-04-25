@@ -7,7 +7,7 @@ categories: lyrics
 
 **Section 1**
 
-When the blizzard ceased to blow,
+When the blizzard ceased to blow,<br>
 He found his croft submerged in snow,
 And his mangy dog was yowling in the dark.
 He scrabbled round for matches, lit the lamp, 
