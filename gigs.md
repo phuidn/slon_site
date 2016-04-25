@@ -16,7 +16,11 @@ permalink: /Gigs/
 <tr>
 <td>19/05/16, 9.45pm</td>
 <td>The Morden Arms</td>
+</tr>
 
+<tr>
+<td>28/05/16</td>
+<td>Morffest, Kankaanpää Finland</td>
 </tr>
 </table>
 
