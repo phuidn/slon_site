@@ -17,8 +17,7 @@ permalink: /Gigs/
 <td>19/05/16, 9.45pm<td>
 <td>The Morden Arms, Greenwich<td>
 <tr>
-
-
+</table>
 <br>
 <!-- line break -->
 
