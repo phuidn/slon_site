@@ -1,0 +1,38 @@
+The two .css options "z-index" and "position" and their arguments can be used 
+to specify which items stand in the foreground and which are shunted to the 
+background. High z-index values mean items are positioned to the fore, low 
+values aft. The values seem to range from +10000 to -10000. Currently I have 
+all the lightbox stuff set at 
+
+.lightboxOverlay {
+  position: absolute;
+  z-index: 10000;
+  ...other options...
+}
+
+.lightbox {
+  position: absolute;
+  z-index: 10000;
+  ...other options...
+}
+
+.lb-nav {
+  position: absolute;
+  z-index: 9999;
+  ...other options...
+}
+
+, so the lb-nav is a little behind the lightboxOverlay and lightbox, but 
+they're all pretty much at the fore. They are also positioned absolutely.
+
+For the menu in _sass/layout.css we've got:
+
+.site-header {
+    position: relative;
+    z-index : 9000;
+    ...other options...
+}
+
+, so it's position is relative, but its z-index value is lower than any of the 
+lightbox stuff. I'm not sure how this gets us what we want: the menu always at 
+the fore, except when the lightbox viewer is being used, but it appears to work.

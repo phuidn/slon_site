@@ -4,9 +4,8 @@ title: Gigs
 permalink: /Gigs/
 ---
 
-<!-- line break -->
 
-#**Upcoming Gigs**
+**Upcoming Gigs**
 
 <!-- These tables have no borders. -->
 <!-- The table is written one row at a time. -->
@@ -14,42 +13,93 @@ permalink: /Gigs/
 <table style="width:100%">
   <col width="80">
   <col width="160">
-</table> 
+<tr>
+<td>19/05/16, 9.45pm</td>
+<td>The Morden Arms, Greenwich</td>
+</tr>
+
+<tr>
+<td>28/05/16</td>
+<td>Morffest, Kankaanpää Finland</td>
+</tr>
+</table>
 
 <br>
+<!-- line break -->
 
-#**Old Gigs**
-
+**Old Gigs**
 
 <table style="width:100%">
   <col width="80">
   <col width="160">
+
+  <tr>
+    <td>11/4/16</td>
+    <td>The Spice of Life, Soho</td>
+  </tr>
+
+  <tr>
+    <td>10/4/16</td>
+    <td>Noteworthy, Paper Dress, Hackney</td>
+  </tr>
+
+  <tr>
+    <td>20/3/16</td>
+    <td>The Hideaway, Archway</td>
+  </tr>
+
+  <tr>
+    <td>3/3/16</td>
+    <td>The Glebe, Stoke-on-Trent</td>
+  </tr>
+
+  <tr>
+    <td>28/2/16</td>
+    <td>Noteworthy, Paper Dress, Hackney </td>
+  </tr>
+
+  <tr>
+    <td>15/2/16</td>
+    <td>The Alice, Aldgate</td>
+  </tr>
+
+  <tr>
+    <td>11/2/16</td>
+    <td>The Church, Muswell Hill</td>
+  </tr>
+
   <tr>
     <td>9/10/15</td>
-    <td>The Spice of Life, Soho</td> 
+    <td>The Spice of Life, Soho</td>
   </tr>
+
   <tr>
     <td>17/9/15</td>
-    <td>The Morden Arms, Greenwich</td> 
+    <td>The Morden Arms, Greenwich</td>
   </tr>
+
   <tr>
     <td>12/8/15</td>
-    <td>Blueberry Bar, Shoreditch</td> 
+    <td>Blueberry Bar, Shoreditch</td>
   </tr>
+
   <tr>
     <td>2/6/15</td>
-    <td>Cafe 1001, Brick Lane</td> 
+    <td>Cafe 1001, Brick Lane</td>
   </tr>
+
   <tr>
     <td>18/6/15</td>
-    <td>The Philosophy Bar, King's College London</td> 
+    <td>The Philosophy Bar, Kings College London</td>
   </tr>
+
   <tr>
     <td>24/6/15</td>
-    <td>Blueberry Bar, Shoreditch</td> 
+    <td>Blueberry Bar, Shoreditch</td>
   </tr>
+
   <tr>
     <td>4/8/15</td>
-    <td>Cafe 1001, Brick Lane</td> 
+    <td>Cafe 1001, Brick Lane</td>
   </tr>
 </table>
