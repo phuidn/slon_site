@@ -23,8 +23,11 @@ layout: default
     <tr>
   {% endif %}
 
+<!--The 'data-lightview...' bit creates thumbnails based on the originals-->
+<!--I have no idea how it does this.-->
   <td>
-  <a href="/images/{{ image.name }}" data-lightbox="art" title="{{ image.text}}" data-lightview-group-options="controls: 'thumbnails'">
+      <a href="/images/{{ image.name }}" data-lightbox="art" title="{{ image.text}}"
+         data-lightview-group-options="controls: 'thumbnails'">
   <div class="container">
     <img id="clip" src="/images/{{ image.name }}" />
   </div>
