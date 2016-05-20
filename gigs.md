@@ -14,7 +14,25 @@ permalink: /Gigs/
   <col width="80">
   <col width="160">
 
+<tr>
+<td>19/05/16, 9.45pm</td>
+<td>The Morden Arms, Greenwich</td>
+</tr>
+
+<tr>
+<td>28/05/16</td>
+<td>Morffest, Kankaanpää Finland</td>
+</tr>
+
+
+<tr>
+<td>14/08/16, 8.15pm</td>
+<td>The Spice of Life, Soho</td>
+</tr>
+
+
 </table>
+
 
 <br>
 <!-- line break -->
