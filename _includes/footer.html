@@ -45,6 +45,21 @@
             </a>
           </li>
           {% endif %}
+          {% if site.soundcloud_username %}
+          <li>
+            <a href="https://www.soundcloud.com/{{ site.soundcloud_username }}">
+              <i class="fa fa-soundcloud"></i> Soundcloud
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.facebook_username %}
+          <li>
+            <a href="https://www.facebook.com/{{ site.facebook_username }}">
+              <i class="fa fa-facebook"></i> Facebook
+            </a>
+          </li>
+          {% endif %}
         </ul>
       </div>
 

@@ -6,7 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.slonmusic.com/" # the base hostname & protocol for your site
-soundcloud: "http://www.soundcloud.com/slon-1"
+soundcloud_username: "slon-1"
+facebook_username: "slontopia"
 
 #twitter_username: jekyllrb
 #github_username:  jekyll
