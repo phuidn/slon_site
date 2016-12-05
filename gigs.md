@@ -13,6 +13,12 @@ permalink: /Gigs/
 <table style="width:100%">
   <col width="80">
   <col width="160">
+
+  <tr>
+    <td>9/12/16</td>
+    <td>Pilgrim's Pit, Stoke-on-Trent, 7-12pm</td>
+  </tr>
+
 </table>
 
 
