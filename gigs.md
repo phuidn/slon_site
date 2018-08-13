@@ -14,6 +14,11 @@ permalink: /Gigs/
   <col width="80">
   <col width="160">
 
+  <tr>
+    <td>21/10/18</td>
+    <td>Tsuzamen, Tel Aviv Israel</td>
+  </tr>
+
 </table>
 
 
