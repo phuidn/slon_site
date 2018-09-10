@@ -19,6 +19,11 @@ permalink: /Gigs/
     <td>Tsuzamen, Tel Aviv Israel</td>
   </tr>
 
+  <tr>
+    <td>25/10/18</td>
+    <td>Mystic Mountain, Safed Israel</td>
+  </tr>
+
 </table>
 
 
