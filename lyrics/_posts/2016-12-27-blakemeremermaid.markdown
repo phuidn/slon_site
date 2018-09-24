@@ -63,6 +63,6 @@ With sickle-sharp talons,<br>
 She butchered that felon,<br>
 Then dove, and not a ripple<br>
 Did betray her presence,<br>
-Theer she waits...<br>
+There, she waits...<br>
 
 By Michael Ridley
