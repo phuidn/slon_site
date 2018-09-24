@@ -20,6 +20,11 @@ permalink: /Gigs/
   </tr>
 
   <tr>
+    <td>24/10/18</td>
+    <td>Blaze Bar, Jerusalem Israel</td>
+  </tr>
+
+  <tr>
     <td>25/10/18</td>
     <td>Mystic Mountain, Safed Israel</td>
   </tr>
