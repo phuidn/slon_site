@@ -29,6 +29,11 @@ permalink: /Gigs/
     <td>Mystic Mountain, Safed Israel</td>
   </tr>
 
+  <tr>
+    <td>27/10/18</td>
+    <td>Hosh al-Yasmine, Beit Jala, Bethlehem Palestine</td>
+  </tr>
+
 </table>
 
 
