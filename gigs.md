@@ -14,6 +14,19 @@ permalink: /Gigs/
   <col width="80">
   <col width="160">
 
+
+</table>
+
+
+<br>
+<!-- line break -->
+
+**Old Gigs**
+
+<table style="width:100%">
+  <col width="80">
+  <col width="160">
+
   <tr>
     <td>21/10/18</td>
     <td>Tsuzamen, Tel Aviv Israel</td>
@@ -33,18 +46,6 @@ permalink: /Gigs/
     <td>27/10/18</td>
     <td>Hosh al-Yasmine, Beit Jala, Bethlehem Palestine</td>
   </tr>
-
-</table>
-
-
-<br>
-<!-- line break -->
-
-**Old Gigs**
-
-<table style="width:100%">
-  <col width="80">
-  <col width="160">
 
   <tr>
     <td>9/12/16</td>
