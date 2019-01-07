@@ -28,13 +28,8 @@ permalink: /Gigs/
   <col width="160">
 
   <tr>
-    <td>21/10/18</td>
-    <td>Tsuzamen, Tel Aviv Israel</td>
-  </tr>
-
-  <tr>
-    <td>24/10/18</td>
-    <td>Blaze Bar, Jerusalem Israel</td>
+    <td>27/10/18</td>
+    <td>Hosh al-Yasmine, Beit Jala, Bethlehem Palestine</td>
   </tr>
 
   <tr>
@@ -43,8 +38,13 @@ permalink: /Gigs/
   </tr>
 
   <tr>
-    <td>27/10/18</td>
-    <td>Hosh al-Yasmine, Beit Jala, Bethlehem Palestine</td>
+    <td>24/10/18</td>
+    <td>Blaze Bar, Jerusalem Israel</td>
+  </tr>
+
+  <tr>
+    <td>21/10/18</td>
+    <td>Tsuzamen, Tel Aviv Israel</td>
   </tr>
 
   <tr>
