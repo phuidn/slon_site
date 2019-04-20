@@ -2,7 +2,7 @@
 title: SLON
 email: musicalslon@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is the website of the band Slon
+  This is the website of the band SLON
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.slonmusic.com/" # the base hostname & protocol for your site
