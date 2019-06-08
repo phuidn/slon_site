@@ -1,5 +1,12 @@
 ---
 layout: post
+title:  "Introduction to Rob: Part I"
+date:   2019-04-20 21:36:00
+categories: literature
+---
+
+---
+layout: post
 title:  "Introduction to Rob: Part II"
 date:   2019-06-08 23:00:00
 categories: literature
