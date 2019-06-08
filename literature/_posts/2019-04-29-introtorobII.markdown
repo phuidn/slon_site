@@ -247,7 +247,7 @@ Then something extraordinary happened. The elder parrot was a few inches away an
 
 I stared down at the tropics from my elevated spot, bemused. In one second my emotions slipped from euphoria to black depression, and I burst into tears for my lost opportunity, for my lost experience. Then I sadly turned, and with bloodshot eyes I resumed my ascent out of the second plain above the plenum, and the exterior of the last parrot egg felt cool against my skin.
 
-###References
+##References
 
 [1] The language of Dog is tonal, and involves the words “rowr-roorowr-rowrruff” expressed at many thousands of different frequency combinations within the canine range of hearing. This range, spanning about 10 ½ different octaves, includes some frequencies the human ear cannot hear. For the most part, however, Dog is spoken at frequencies lying in the human range of 20-20,000Hz and so humans can also understand it. The upper range of the language is mainly used to express philosophical ideas, which is why conversations with dogs rarely veer from literal descriptions of practical topics of immediate significance. It is true that dogs often make other sounds beside “rowr-roorowr-rowrruff” , but these have no linguistic interpretation and should be regarded as mere animal noises.
 
