@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction to Rob: Part II"
-date:   2019-06-08 23:45:00
+date:   2019-06-08 23:45:00+0300
 categories: literature
 ---
 
