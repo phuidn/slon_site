@@ -18,9 +18,7 @@ So then there were these seven eggs. These seven parrot eggs that I cradled in m
 
 
 “Daylight lures you, as the flowing history-horse
-
 Gallops with you jauntily.
-
 Give up the race, you
 
 Cannot win it.
