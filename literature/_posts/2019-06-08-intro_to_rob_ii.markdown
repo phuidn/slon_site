@@ -113,44 +113,27 @@ March on frozen Novgorod.”
 
 
 
-“What is peril?” replied the chick.
-
-I was rather taken aback by this question from the infant parrot. It unnerved me somewhat to have to explain peril to a creature with no concept of health and safety. But I thought for a moment, and settled upon a workable definition of the term.
-
-“Peril is the possibility of suffering harm one would not want to suffer”, I ventured.
-
-The chick pondered intensely upon this. “So … so if I want to suffer from harm in some way, the possibility of being thus harmed threatens me with no peril?”
-
-“Well, yes…” I replied with great consternation, “for instance, although I would say you were at risk from the various predators in these woods, it is true that if you place a lower value on your life than I do, then you are in a sense taking no risk by offering yourself as prey, because being eaten doesn’t cause you to lose something you value.”
-
-“Ah, I think I understand now”, the chick declared. “The cure for all the perils of this world, this forest that I have hatched into, this shining egg exterior, is to reduce the worth of my life to nil?”
-
-“That would do it”, I said slowly, feeling uncomfortable at the turn this conversation was now beginning to take.
-
-“But in general, one wishes to live.”
-
-“That sounds a bit fanatical to me”, said the chick. “If I’m honest with myself, it doesn’t particularly matter if I survive or perish. My life is of no significance to anyone except you. Certainly, when I was curled up inside this egg here, I never assumed that it was important for me to stay alive. On the contrary, it might be more important in the grand scheme of things for that big snake to have had another egg to tide it over while it finished digesting my mother. The poor reptile was so stuffed it couldn’t have grabbed any moving prey. But I was perfectly suited for the job; I couldn’t very well run outrun a snake from inside an egg, could I?”
-
-The logic of the argument impressed me, but nevertheless I retained some reservations about the extreme nihilism displayed by my new child. It was then that I was inspired, in the usual tradition of British exploration, with an urge to label this creature.
-
-“Bravo, chick, you’re a true artist. I shall name you Hendrix.”
-
-“Hendrix? What does it mean?”
-
-“It means ‘cliff top gardener’”, I lied, not wishing to relay the history of 20th century music to a parrot chick.
-
-The newly christened Hendrix was taken aback. “Which cliff top?” she demanded (for it was a she). “Where is the garden?”
-
+“What is peril?” replied the chick.  
+I was rather taken aback by this question from the infant parrot. It unnerved me somewhat to have to explain peril to a creature with no concept of health and safety. But I thought for a moment, and settled upon a workable definition of the term.  
+“Peril is the possibility of suffering harm one would not want to suffer”, I ventured.  
+The chick pondered intensely upon this. “So … so if I want to suffer from harm in some way, the possibility of being thus harmed threatens me with no peril?”  
+“Well, yes…” I replied with great consternation, “for instance, although I would say you were at risk from the various predators in these woods, it is true that if you place a lower value on your life than I do, then you are in a sense taking no risk by offering yourself as prey, because being eaten doesn’t cause you to lose something you value.”  
+“Ah, I think I understand now”, the chick declared. “The cure for all the perils of this world, this forest that I have hatched into, this shining egg exterior, is to reduce the worth of my life to nil?”  
+“That would do it”, I said slowly, feeling uncomfortable at the turn this conversation was now beginning to take.  
+“But in general, one wishes to live.”  
+“That sounds a bit fanatical to me”, said the chick. “If I’m honest with myself, it doesn’t particularly matter if I survive or perish. My life is of no significance to anyone except you. Certainly, when I was curled up inside this egg here, I never assumed that it was important for me to stay alive. On the contrary, it might be more important in the grand scheme of things for that big snake to have had another egg to tide it over while it finished digesting my mother. The poor reptile was so stuffed it couldn’t have grabbed any moving prey. But I was perfectly suited for the job; I couldn’t very well run outrun a snake from inside an egg, could I?”  
+The logic of the argument impressed me, but nevertheless I retained some reservations about the extreme nihilism displayed by my new child. It was then that I was inspired, in the usual tradition of British exploration, with an urge to label this creature.  
+“Bravo, chick, you’re a true artist. I shall name you Hendrix.”  
+“Hendrix? What does it mean?”  
+“It means ‘cliff top gardener’”, I lied, not wishing to relay the history of 20th century music to a parrot chick.  
+The newly christened Hendrix was taken aback. “Which cliff top?” she demanded (for it was a she). “Where is the garden?”  
 “It’s symbolic?” I suggested.
 
 
 
-At that moment the tall and menacing elder sibling of Hendrix came hopping over on its taut, muscly parrot legs. “Here Hendrix, meet your big brother. I haven’t bothered to give him a name yet.”
-
-Silently, the two young parrots beheld each other for the first time. A cruel smile split the beak of the eldest, and he turned to face me.
-
-“So, father”, he squawked, voice dripping with sarcasm, “the brood grows stronger. Your words have fallen on deaf eggs yet again.”
-
+At that moment the tall and menacing elder sibling of Hendrix came hopping over on its taut, muscly parrot legs. “Here Hendrix, meet your big brother. I haven’t bothered to give him a name yet.”  
+Silently, the two young parrots beheld each other for the first time. A cruel smile split the beak of the eldest, and he turned to face me.  
+“So, father”, he squawked, voice dripping with sarcasm, “the brood grows stronger. Your words have fallen on deaf eggs yet again.”  
 I felt intimidated by the sarcasm and by the imputation of this hooligan, and looked timidly at my feet.
 
 
