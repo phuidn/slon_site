@@ -18,26 +18,16 @@ So then there were these seven eggs. These seven parrot eggs that I cradled in m
 
 
 “Daylight lures you, as the flowing history-horse  
-Gallops with you jauntily.
-
-Give up the race, you
-
-Cannot win it.
-
-A persistent voice
-
-Tells you to peck with your egg-tooth
-
-But this deep emotion that you feel
-
-Is nothing but deception
-
-From the charismatic
-
-Devil-mare that pulls the morning
-
-Manically, with no thought
-
+Gallops with you jauntily.  
+Give up the race, you  
+Cannot win it.  
+A persistent voice  
+Tells you to peck with your egg-tooth  
+But this deep emotion that you feel  
+Is nothing but deception  
+From the charismatic  
+Devil-mare that pulls the morning  
+Manically, with no thought  
 For the night.”
 
 This being said, I was deeply shocked to witness one of the eggs suddenly split down the middle and a gasping, flapping soggy parrot chick stumble out.
@@ -56,32 +46,19 @@ It is apposite to mention that I had recently spent several years working for a 
 
 
 
-Dog: “Rowr-roorowr-rowrruff”
-
-(Greetings, bipedal-strider)
-
-Michael: “Rowr-roorowr-rowruff”
-
-(Hallo, ginger-white-fur-body-four-leg. What is your name?)
-
-Dog: “Rowr-roorowr-rowrruff”
-
-(Torkel Knutsson.)
-
-Michael: “Rowr-roorowr-rowrruff”
-
-(I am pleased to make your acquaintance, Torkel Knutsson. You have a fine pelt and your dilated eyes indicate a fast-beating heart.)
-
-Torkel Knutsson: “Rowr-roorowr-rowrruff”
-
-(Well observed. These things are all true. For many years, I, Torkel Knutsson, have roamed in these woods. They are well stocked with food.)
-
-Michael: “Rowr-roorowr-rowrruff”
-
-(I have no family except this chick and her six unhatched siblings here. I’m not particularly hungry but the birds must be fed.)
-
-Torkel Knutsson: “Rowr-roorowr-rowrruff”
-
+Dog: “Rowr-roorowr-rowrruff”  
+(Greetings, bipedal-strider)  
+Michael: “Rowr-roorowr-rowruff”  
+(Hallo, ginger-white-fur-body-four-leg. What is your name?)  
+Dog: “Rowr-roorowr-rowrruff”  
+(Torkel Knutsson.)  
+Michael: “Rowr-roorowr-rowrruff”  
+(I am pleased to make your acquaintance, Torkel Knutsson. You have a fine pelt and your dilated eyes indicate a fast-beating heart.)  
+Torkel Knutsson: “Rowr-roorowr-rowrruff”  
+(Well observed. These things are all true. For many years, I, Torkel Knutsson, have roamed in these woods. They are well stocked with food.)  
+Michael: “Rowr-roorowr-rowrruff”  
+(I have no family except this chick and her six unhatched siblings here. I’m not particularly hungry but the birds must be fed.)  
+Torkel Knutsson: “Rowr-roorowr-rowrruff”  
 (Wait here. I know of a food-source.)<sup>1</sup>
 
 
@@ -122,26 +99,16 @@ I listened to the story of Torkel Knutsson’s historic victory with great pride
 
 
 
-“Your portion of beginner’s luck
-
-Was spent, when you were rescued
-
-From the swollen boa’s mouth.
-
-Then your first decision was a fool’s,
-
-You broke into this world,
-
-Like a thief breaking
-
-Naively into prison.
-
-Yes, your debut seethes with danger, doom,
-
-It dwarves the peril borne
-
-By Torkel Knutsson in his famous
-
+“Your portion of beginner’s luck  
+Was spent, when you were rescued  
+From the swollen boa’s mouth.  
+Then your first decision was a fool’s,  
+You broke into this world,  
+Like a thief breaking  
+Naively into prison.  
+Yes, your debut seethes with danger, doom,  
+It dwarves the peril borne  
+By Torkel Knutsson in his famous  
 March on frozen Novgorod.”
 
 
@@ -200,16 +167,11 @@ I returned to the makeshift nest I had made on the forest floor. Torkel Knutsson
 
 
 
-Torkel Knutsson: “Rowr-roorowr-rowruff”
-
-(Is it cannibalism to eat your own skin?)
-
-Michael: “Rowr-roorowr-rowruff”
-
-(Yes, but self-consumption is the moral kind of cannibalism. Got any fox flesh kicking about?”)
-
-Torkel Knutsson: “Rowr-roorowr-rowrruff”
-
+Torkel Knutsson: “Rowr-roorowr-rowruff”  
+(Is it cannibalism to eat your own skin?)  
+Michael: “Rowr-roorowr-rowruff”  
+(Yes, but self-consumption is the moral kind of cannibalism. Got any fox flesh kicking about?”)  
+Torkel Knutsson: “Rowr-roorowr-rowrruff”  
 (Tonnes of it. It’d be a shame to see it rot. Let’s have a barbeque!)
 
 
@@ -222,16 +184,11 @@ Several weeks passed. I spent the majority of my time thinking about the past an
 
 
 
-Torkel Knutsson: “Rowr-roorowr-rowruff”
-
-(Ooooohh yeah, oohhh yeah, that’s right.)
-
-Michael: “Rowr-roorowr-rowrruff”
-
-(You like it that way, don’t you? Huh? Huh?)
-
-Torkel Knutsson: “Rowr-roorowr-rowrruff”
-
+Torkel Knutsson: “Rowr-roorowr-rowruff”  
+(Ooooohh yeah, oohhh yeah, that’s right.)  
+Michael: “Rowr-roorowr-rowrruff”  
+(You like it that way, don’t you? Huh? Huh?)  
+Torkel Knutsson: “Rowr-roorowr-rowrruff”  
 (Ooohh yeah, oh yeah…oh…baby…)
 
 
@@ -252,8 +209,7 @@ Some weeks passed without incident, and then four eggs hatched all at once. This
 
 
 
-“Rowr-roorowr-rowruff”
-
+“Rowr-roorowr-rowruff”  
 (The sharpened ellipsoids are fracturing!)
 
 
@@ -266,18 +222,12 @@ Until I am old and without my critical faculties I shall carry with me the scene
 
 
 
-“Death the master, death the god-head
-
-Death the net of failing souls,
-
-Death the lover, death delicious
-
-Death the silver bell that tolls.
-
-Please the dark one,
-
-Please the old one,
-
+“Death the master, death the god-head  
+Death the net of failing souls,  
+Death the lover, death delicious  
+Death the silver bell that tolls.  
+Please the dark one,  
+Please the old one,  
 Visit soon, Aroo!”
 
 
@@ -302,70 +252,44 @@ It is strange what the proximity of evil can do to the appearance of a creature.
 
 
 
-On the fiftieth day of my residence there, I put it to Hendrix:
-
-“Why, Hendrix, why do you think all living creatures insist on doing things?”
-
-“What sort of things?”
-
-“Oh, just things in general, you know.”
-
-“You mean why does any living thing do anything?”
-
-“Yes.”
-
-“That’s quite a broad question.” She thought awhile. “I suppose in a fundamental sense it depends on what you mean by a thing.”
-
-“Oh, a living thing could just refer to anything that lives, not some specific thing in particular, just a random thing, so long is it pursues the course of life generally speaking.”
-
-“No I don’t mean which kind of things count as living things, I mean how their thinghood itself is ascribed in the first place.” True to form, Hendrix had confused me again.
-
-“Thinghood?”
-
-“Yes, I mean if you take some thing which does something, is it the thing that it does which makes it what it is, or is it what it is regardless of what it does?” I assumed an intelligent expression. Hendrix went on:
-
-“For if a thing is defined by its’ actions, then the answer to your question is trivial. It does what it does because if it didn’t, it would be the thing that it is. But if a living thing is what it is because of the physical composition of its material self, so to speak, then you could argue that the things it does do not also define what it is.”
-
-“Yes”, I contributed.
-
-But Hendrix still hadn’t finished. “On the other hand, the constituent parts of a living thing are also things, and they are often doing things, things that appear to us mechanical processes-osmoses and the like. And at an emergent level, these processes, which we probably would not identify as things done by a living being, but things that occur, these processes result in the living thing, and also in what it does. So from the perspective of reductionism you cannot really distinguish between what a thing is and what it does.”
-
-I felt we were drifting slightly off topic. “I mean, why does any living thing choose to behave in any given way? Isn’t it always arbitrary? Are there any reasons that carry necessary force?”
-
+On the fiftieth day of my residence there, I put it to Hendrix:  
+“Why, Hendrix, why do you think all living creatures insist on doing things?”  
+“What sort of things?”  
+“Oh, just things in general, you know.”  
+“You mean why does any living thing do anything?”  
+“Yes.”  
+“That’s quite a broad question.” She thought awhile. “I suppose in a fundamental sense it depends on what you mean by a thing.”  
+“Oh, a living thing could just refer to anything that lives, not some specific thing in particular, just a random thing, so long is it pursues the course of life generally speaking.”  
+“No I don’t mean which kind of things count as living things, I mean how their thinghood itself is ascribed in the first place.” True to form, Hendrix had confused me again.  
+“Thinghood?”  
+“Yes, I mean if you take some thing which does something, is it the thing that it does which makes it what it is, or is it what it is regardless of what it does?” I assumed an intelligent expression. Hendrix went on:  
+“For if a thing is defined by its’ actions, then the answer to your question is trivial. It does what it does because if it didn’t, it would be the thing that it is. But if a living thing is what it is because of the physical composition of its material self, so to speak, then you could argue that the things it does do not also define what it is.”  
+“Yes”, I contributed.  
+But Hendrix still hadn’t finished. “On the other hand, the constituent parts of a living thing are also things, and they are often doing things, things that appear to us mechanical processes-osmoses and the like. And at an emergent level, these processes, which we probably would not identify as things done by a living being, but things that occur, these processes result in the living thing, and also in what it does. So from the perspective of reductionism you cannot really distinguish between what a thing is and what it does.”  
+I felt we were drifting slightly off topic. “I mean, why does any living thing choose to behave in any given way? Isn’t it always arbitrary? Are there any reasons that carry necessary force?”  
 “Oh, choice”, said the chick. She strode back and forth, rolling this word around in her beak like a chocolate Smartie. “Choice, choice, choice”. She shut her eyes and pondered a moment. Then she fixed me with one beady eye, the other remaining fastened shut. “How can one have a choice, if one is an animal, and what one does is always reducible to the same physical processes that make one what one is?”
 
 
 
 Thankfully, Torkel Knutsson interjected at this juncture:
 
-“Rowr-roorowr-rowrruff.”
-
+“Rowr-roorowr-rowrruff.”  
 (The air flows forcefully today.)
 
 It was true – the wind was picking up. The fire we maintained at our encampment was sputtering and clutching at the air with tattered yellow-red tendrils. Carried on the shoulders of the gale were chanting voices:
 
 
 
-“Fie on you, life,
-
-Fie on genesis and the embryo,
-
-Curse that clucking empathy,
-
-Fie on our occluded sight:
-
-It sees the other,
-
-Sees what isn’t there,
-
-Inscribes meaning on the air.
-
-Death, we invite you here,
-
-Forgetfulness, disorder,
-
-Unravel us, death,
-
+“Fie on you, life,  
+Fie on genesis and the embryo,  
+Curse that clucking empathy,  
+Fie on our occluded sight:  
+It sees the other,  
+Sees what isn’t there,  
+Inscribes meaning on the air.  
+Death, we invite you here,  
+Forgetfulness, disorder,  
+Unravel us, death,  
 Now we are ready…”
 
 
@@ -388,26 +312,16 @@ Yes, something was in the air.
 
 
 
-“So: you heeded the call to prayer”, the elder parrot proclaimed.
-
-“Nah I was just stretching my hamstrings”, I replied unconvincingly, trying to appear nonchalant. Torkel Knutsson added his penny’s worth:
-
-“Rowr-roorowr-rowruff”
-
-(Nice trees around here.)
-
-“Yeah, we were coming to stretch our hamstrings against the nice trees”, I added, pleased at my spontaneous inventiveness.
-
-“You always were a coward”, the elder parrot stated. I didn’t argue. It’s true. I’ve never been one to put myself out on a matter of principle if it’s more convenient to meekly conform. I decided to turn the tables on the elder parrot.
-
-“Who are you praying to, anyway? Your dead mother?”
-
-Torkel Knutsson: “Rowr-roorowr-rowruff”
-
-(Ooh shit! Oh NO he didn’t!)
-
-The elder parrot hopped down from the dais, kicked me in the shins, and smiled.
-
+“So: you heeded the call to prayer”, the elder parrot proclaimed.  
+“Nah I was just stretching my hamstrings”, I replied unconvincingly, trying to appear nonchalant. Torkel Knutsson added his penny’s worth:  
+“Rowr-roorowr-rowruff”  
+(Nice trees around here.)  
+“Yeah, we were coming to stretch our hamstrings against the nice trees”, I added, pleased at my spontaneous inventiveness.  
+“You always were a coward”, the elder parrot stated. I didn’t argue. It’s true. I’ve never been one to put myself out on a matter of principle if it’s more convenient to meekly conform. I decided to turn the tables on the elder parrot.  
+“Who are you praying to, anyway? Your dead mother?”  
+Torkel Knutsson: “Rowr-roorowr-rowruff”  
+(Ooh shit! Oh NO he didn’t!)  
+The elder parrot hopped down from the dais, kicked me in the shins, and smiled.  
 “Nope”, he said, “I was praying to YOUR dead daughter.”
 
 At these words, his four nameless minions marched out of the forest carrying Hendrix, my darling tutee, over their heads. Three of them pinned her to the ground while the fourth started ripping off her feathers in great handfuls. Torkel Knutsson, realizing that the joke was on us, stopped laughing in Dog and began to howl pitifully.
